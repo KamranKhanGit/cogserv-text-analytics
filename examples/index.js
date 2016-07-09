@@ -3,7 +3,7 @@ const { keyPhrases, sentiment } = require('../src')
 const documents = require('./example.json')
 
 keyPhrases(documents, (err, res) => {
-  console.log(err || res)
+  console.log(err || JSON.parse(res))
 })
 
 keyPhrases(documents)

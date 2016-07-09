@@ -1,6 +1,6 @@
 {
   "name": "cogserv-text-analytics",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Azure Machine Learning - Text Analytics",
   "main": "src/index.js",
   "scripts": {
