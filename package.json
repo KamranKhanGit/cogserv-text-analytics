@@ -1,0 +1,21 @@
+{
+  "name": "cogserv-text-analytics",
+  "version": "0.3.1",
+  "description": "Azure Machine Learning - Text Analytics",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "machine learning",
+    "key phrases",
+    "sentiment"
+  ],
+  "author": "slofurno",
+  "license": "MIT",
+  "repository": "https://github.com/slofurno/cogserv-text-analytics",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
